@@ -13,4 +13,3 @@ Run these commands:
 
 `node app.js`
 
-# use sudo if there are any permission errors
